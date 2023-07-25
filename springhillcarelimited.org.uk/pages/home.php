@@ -13,8 +13,9 @@
                             <div class="intro-text">
                                 <h2>Best Quality Service</h2>
                                 <p>We Have a very strong and intelligent team to provide you best services very quickly. </p>
-                                <a href="#" class="btn">Learn More</a>
-                                <a href="#" class="btn btn-trnsp">Contact</a>
+                                <a id="privacy-policy-link" href="#" class="btn">Safeguarding Policy</a>
+                                <a id="governance-policy-link" href="#" class="btn">governance Policy</a>
+                              
                             </div>
                         </div>
                     </div>
@@ -27,8 +28,8 @@
                             <div class="intro-text">
                                 <h2>Best Quality Support</h2>
                                 <p>We Have a very strong and intelligent team to provide you best services very quickly. </p>
-                                <a href="#" class="btn">Learn More</a>
-                                <a href="#" class="btn btn-trnsp">Contact</a>
+                                <a id="privacy-policy-link" href="#" class="btn">Safeguarding Policy</a>
+                                <a id="governance-policy-link" href="#" class="btn">governance Policy</a>
                             </div>
                         </div>
                     </div>
@@ -41,8 +42,8 @@
                             <div class="intro-text">
                                 <h2>We are Experienced</h2>
                                 <p>We Have a very strong and intelligent team to provide you best services very quickly. </p>
-                                <a href="#" class="btn">Learn More</a>
-                                <a href="#" class="btn btn-trnsp">Contact</a>
+                                <a id="privacy-policy-link" href="#" class="btn">Safeguarding Policy</a>
+                                <a id="governance-policy-link" href="#" class="btn">governance Policy</a>
                             </div>
                         </div>
                     </div>

@@ -41,12 +41,16 @@
     <!-- Footer area ends -->
 <!-- Add an ID to the policy link -->
 <div class="copyright-text text-center clearfix">
-    <p>Copyright &copy; 2023. Designed by <a href="https://www.linkedin.com/in/yao-adzikah" target="_blank">waystudio</a> | <a id="privacy-policy-link" href="#">Privacy Policy</a></p>
+    <p>Copyright &copy; 2023. Designed by <a href="https://www.linkedin.com/in/yao-adzikah" target="_blank"> waystudio </a> | <a id="privacy-policy-link" href="#">Safeguarding Policy</a> | <a id="governance-policy-link" href="#">governance Policy</a> </p>
 </div>
 
 <script>
-    document.getElementById('privacy-policy-link').addEventListener('click', function() {
+   
+   document.getElementById('privacy-policy-link').addEventListener('click', function() {
         window.open('inc/policy.pdf', '_blank');
+    });
+    document.getElementById('governance-policy-link').addEventListener('click', function() {
+        window.open('inc/governance.pdf', '_blank');
     });
 </script>
 
